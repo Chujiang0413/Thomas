@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-test:1.5.18.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Desktop/repostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/demoRepostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/Desktop/repostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/demoRepostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/Desktop/repostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/demoRepostory/org/springframework/boot/spring-boot-test/1.5.18.BUILD-SNAPSHOT/spring-boot-test-1.5.18.BUILD-20181018.095059-3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
