@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demoText" />
         <module name="Gmail" />
         <module name="tkman" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demoText" target="1.8" />
       <module name="Gmail" target="1.5" />
       <module name="tkman" target="1.8" />
     </bytecodeTargetLevel>

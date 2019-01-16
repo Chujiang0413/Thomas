@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Gmail/Gmail.iml" filepath="$PROJECT_DIR$/Gmail/Gmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Thomas.iml" filepath="$PROJECT_DIR$/.idea/Thomas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tkman/demoText.iml" filepath="$PROJECT_DIR$/tkman/demoText.iml" />
       <module fileurl="file://$PROJECT_DIR$/tkman/tkman.iml" filepath="$PROJECT_DIR$/tkman/tkman.iml" />
     </modules>
   </component>
